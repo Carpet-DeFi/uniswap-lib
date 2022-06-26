@@ -18,7 +18,7 @@ Run `yarn test` to execute the test suite.
 
 ## Usage
 
-Install this in another project via `yarn add @uniswap/lib`
+Install this in another project via `yarn add @uniswap/lib@https://github.com/Carpet-DeFi/uniswap-lib/`
 
 Then import the contracts via:
 
